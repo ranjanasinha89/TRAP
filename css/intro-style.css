@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#myBtn {
+    position: relative;
+    left:45%;
+    width: 180px;
+    font-size: 18px;
+    left: 46%;
+    padding: 10px;
+    border: 2px solid #fffde6;
+    background: #333333;
+    color: #fffde6;
+    cursor: pointer;
+}
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 20px;
+}

@@ -1,0 +1,22 @@
+.row{
+  background-color: #2d2d30;
+  margin-bottom: 3px;
+}
+
+h2{
+  color: white;
+  font-family: Verdana;
+}
+
+.container{
+  padding: 50px;
+}
+
+h3 {
+font-family: Verdana;
+color: white;
+}
+
+video{
+ margin-bottom: -10px;
+}
