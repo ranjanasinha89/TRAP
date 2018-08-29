@@ -1,2 +1,2 @@
 # TRAP
-Website for a music band
+Website for a music band T.R.A.P. from Kolkata, India.
